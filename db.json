@@ -1,0 +1,740 @@
+{
+"user":[
+    {
+      "id": "1",
+      "firstName":"stone",
+      "lastName":"watts",
+      "email":"stone@gmail.com",
+      "phonenumber":"0125125125",
+      "username":"stonestwatts",
+      "password":"bkp12052002"
+    },
+    {
+      "id": "2",
+      "firstName":"madeline",
+      "lastName":"ashton",
+      "email":"mirandaashton125@gmail.com",
+      "phonenumber":"0125484391",
+      "username":"mdln1992",
+      "password":"mdl12345678"
+    },
+    {
+      "id": "3",
+      "firstName":"mason",
+      "lastName":"mount",
+      "email":"mm1999@gmail.com",
+      "phonenumber":"0125123456",
+      "username":"mm1999",
+      "password":"mmsw12052002"
+    },
+    {
+      "id":"4",
+      "firstName":"lady",
+      "lastName":"gaga",
+      "email":"ldgg1986@gmail.com",
+      "phonenumber":"0987456123",
+      "username":"ladygaga",
+      "password":"123456789"
+    },
+    {
+      "id":"5",
+      "firstName":"jay",
+      "lastName":"gould",
+      "email":"jg1996@gmail.com",
+      "phonenumber":"0123456789",
+      "username":"jaygould",
+      "password":"jg12052002"
+    },
+    {
+        "id": "6",
+        "firstName":"miranda",
+        "lastName":"presley",
+        "email":"mirandapresley@gmail.com",
+        "phonenumber":"3216549871",
+        "username":"miranda",
+        "password":"mp2006123"
+    }
+],
+
+
+"realestate_listing":[
+  {
+    "id":"1",
+    "name":"1200 Hilltop Drive",
+    "location":"Simple Hills",
+    "price":"$575,000,000",
+    "numberprice": "575000000",
+    "bed":"30",
+    "bath":"45",
+    "sqft":"115,000",
+    "lot":"38",
+    "image":"https://www.mccleandesign.com/media/projects_hd/Laurel_Way-1221/9_i29121920x0_7_76.jpg",
+    "allimages": [
+      "https://www.mccleandesign.com/media/projects_hd/Laurel_Way-1221/9_i29121920x0_7_76.jpg",
+      "https://www.mccleandesign.com/media/projects_hd/Laurel_Way-1221/8_i29111920x0_7_76.jpg",
+      "https://www.mccleandesign.com/media/projects_hd/Laurel_Way-1221/2_i29051920x0_7_76.jpg",
+      "https://www.mccleandesign.com/media/projects_hd/Laurel_Way-1221/10_i29131920x0_7_76.jpg",
+      "https://www.mccleandesign.com/media/projects_hd/Laurel_Way-1221/1_i29041920x0_7_76.jpg"
+  
+    ]
+
+},
+{
+  "id":"2",
+  "name":"1175 Hillside Road",
+  "location":"Taurus Hills",
+  "price":"$255,990,000",
+  "numberprice": "255990000",
+  "bed":"22",
+  "bath":"30",
+  "sqft":"87,500",
+  "lot":"25",
+  "image":"https://www.mccleandesign.com/media/projects_hd/Shadow_Hill/1_i28381920x0_7_70.jpg"
+  
+},
+{
+  "id":"3",
+  "name":"908 Highland Drive",
+  "location":"Simple Hills",
+  "price":"$215,000,000",
+  "numberprice": "215000000",
+  "bed":"20",
+  "bath":"25",
+  "sqft":"67,500",
+  "lot":"15",
+  "image":"https://www.mccleandesign.com/media/projects_hd/Laurel_Way-1357/18---mcclean-design_laurel-way---30_i33961920x0_7_92.jpg"
+  
+},
+{
+  "id":"4",
+  "name":"1169 Hillside Road",
+  "location":"Taurus Hills",
+  "price":"$205,990,000",
+  "numberprice": "205990000",
+  "bed":"17",
+  "bath":"21",
+  "sqft":"70,000",
+  "lot":"20",
+  "image":"http://1169hillcrest.com/photos/1169hillcrest/large/Hillcrest-2_opt2.jpg"
+  
+},
+{
+  "id":"5",
+  "name":"9272 Eastside Road",
+  "location":"Taurus Hills",
+  "price":"$195,000,000",
+  "numberprice": "195000000",
+  "bed":"17",
+  "bath":"22",
+  "sqft":"55,500",
+  "lot":"20",
+  "image":"https://www.mccleandesign.com/media/projects_hd/Robin/9272robindrive074b_i32331920x0_7_87.jpg"
+  
+},
+{
+"id":"6",
+"name":"920 Southside Road",
+"location":"South-East Hills",
+"price":"$335,000,000",
+"numberprice": "335000000",
+"bed":"20",
+"bath":"35",
+"sqft":"100,000",
+"lot":"20",
+"image":"https://www.mccleandesign.com/media/projects_hd/Devlin_1415/1415-devlin-drive-13_i31341920x0_7_82.jpg",
+"allimages": [
+  "https://www.mccleandesign.com/media/projects_hd/Opus/40_i30621920x0_7_78.jpg",
+  "https://www.mccleandesign.com/media/projects_hd/Opus/36_i30581920x0_7_78.jpg",
+  "https://www.mccleandesign.com/media/projects_hd/Opus/39_i30611920x0_7_78.jpg",
+  "https://www.mccleandesign.com/media/projects_hd/Opus/4_i30261920x0_7_78.jpg",
+  "https://www.mccleandesign.com/media/projects_hd/Opus/11_i30331920x0_7_78.jpg",
+  "https://www.mccleandesign.com/media/projects_hd/Opus/37_i30591920x0_7_78.jpg",
+  "https://www.mccleandesign.com/media/projects_hd/Opus/26_i30481920x0_7_78.jpg",
+  "https://www.mccleandesign.com/media/projects_hd/Opus/17_i30391920x0_7_78.jpg",
+  "https://www.mccleandesign.com/media/projects_hd/Opus/19_i30411920x0_7_78.jpg",
+  "https://www.mccleandesign.com/media/projects_hd/Opus/35_i30571920x0_7_78.jpg"
+
+]
+
+
+},
+{
+"id":"7",
+"name":"925 Southside Road",
+"location":"Taurus Hills",
+"price":"$295,000,000",
+"numberprice": "295000000",
+"bed":"15",
+"bath":"22",
+"sqft":"72,500",
+"lot":"19",
+"image":"https://www.mccleandesign.com/media/projects_hd/Opus/39_i30611920x0_7_78.jpg",
+"allimages": [
+"https://www.mccleandesign.com/media/projects_hd/Opus/40_i30621920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/36_i30581920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/39_i30611920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/4_i30261920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/11_i30331920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/37_i30591920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/26_i30481920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/17_i30391920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/19_i30411920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/35_i30571920x0_7_78.jpg"
+
+]
+
+},
+{
+"id":"8",
+"name":"1210 Hilltop Drive",
+"location":"Simple Hills",
+"price":"$150,000,000",
+"numberprice": "150000000",
+"bed":"15",
+"bath":"25",
+"sqft":"50,500",
+"lot":"20",
+"image":"https://www.mccleandesign.com/media/projects_hd/908-Bel-Air/908belairroad011a_i31401920x0_7_83.jpg",
+"allimages": [
+"https://www.mccleandesign.com/media/projects_hd/Opus/40_i30621920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/36_i30581920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/39_i30611920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/4_i30261920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/11_i30331920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/37_i30591920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/26_i30481920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/17_i30391920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/19_i30411920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/35_i30571920x0_7_78.jpg"
+
+]
+
+},
+{
+"id":"9",
+"name":"1169 Hillside Road",
+"location":"South-East Hills",
+"price":"$205,990,000",
+"numberprice": "205990000",
+"bed":"17",
+"bath":"21",
+"sqft":"70,000",
+"lot":"22",
+"image":"https://www.mccleandesign.com/media/projects_hd/Laurel_Way-1210/10_i29021920x0_7_75.jpg",
+"allimages": [
+"https://www.mccleandesign.com/media/projects_hd/Opus/40_i30621920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/36_i30581920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/39_i30611920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/4_i30261920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/11_i30331920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/37_i30591920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/26_i30481920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/17_i30391920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/19_i30411920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/35_i30571920x0_7_78.jpg"
+
+]
+
+},
+{
+"id":"10",
+"name":"9272 Eastside Road",
+"location":"Taurus Hills",
+"price":"$195,000,000",
+"numberprice": "195000000",
+"bed":"17",
+"bath":"22",
+"sqft":"55,500",
+"lot":"20",
+"image":"https://www.mccleandesign.com/media/projects_hd/Robin/9272robindrive123a_i32411920x0_7_87.jpg",
+"allimages": [
+"https://www.mccleandesign.com/media/projects_hd/Opus/40_i30621920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/36_i30581920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/39_i30611920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/4_i30261920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/11_i30331920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/37_i30591920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/26_i30481920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/17_i30391920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/19_i30411920x0_7_78.jpg",
+"https://www.mccleandesign.com/media/projects_hd/Opus/35_i30571920x0_7_78.jpg"
+
+]
+
+},
+    {
+        "id":11,
+        "name":"1181 Hillside Road",
+        "location":"Simple Hills",
+        "price":"$175,000,000",
+        "numberprice": "175000000",
+        "bed":"10",
+        "bath":"15",
+        "sqft":"45,000",
+        "lot":"20",
+        "image":"http://www.1181northhillcrest.com/photos/1181hillcrest/large/1181NorthHillcrest001.jpg"
+        
+    },
+    {
+      "id":12,
+      "name":"1122 Mid-Hill Road",
+      "location":"Simple Hills",
+      "price":"$155,990,000",
+      "numberprice": "155990000",
+      "bed":"12",
+      "bath":"20",
+      "sqft":"37,500",
+      "lot":"15",
+      "image":"https://www.mccleandesign.com/media/projects_hd/Opus/10_i30321920x0_7_78.jpg"
+      
+  },
+  {
+      "id":13,
+      "name":"908 Moutain Drive",
+      "location":"South-East Hills",
+      "price":"$215,000,000",
+      "numberprice": "215000000",
+      "bed":"20",
+      "bath":"25",
+      "sqft":"67,500",
+      "lot":"15",
+      "image":"https://plusdevelopmentgroup.com/wp-content/uploads/2019/05/908BelAirRoad078aDESATURATED_Website-New-1920x0-c-default.jpg"
+      
+  },
+  {
+      "id":14,
+      "name":"1169 Hills Road",
+      "location":"South-East Hills",
+      "price":"$205,990,000",
+      "numberprice": "205990000",
+      "bed":"17",
+      "bath":"21",
+      "sqft":"70,000",
+      "lot":"20",
+      "image":"http://1169hillcrest.com/photos/1169hillcrest/large/Hillcrest-2_opt2.jpg"
+      
+  },
+  {
+      "id":15,
+      "name":"9272 Eastside Road",
+      "location":"Taurus Hills",
+      "price":"$195,000,000",
+      "numberprice": "195000000",
+      "bed":"17",
+      "bath":"22",
+      "sqft":"55,500",
+      "lot":"20",
+      "image":"https://www.mccleandesign.com/media/projects_hd/Robin/9272robindrive123a_i32411920x0_7_87.jpg"
+      
+  },
+  {
+    "id":16,
+    "name":"1132 Southside Road",
+    "location":"South-East Hills",
+    "price":"$335,000,000",
+    "numberprice": "335000000",
+    "bed":"20",
+    "bath":"35",
+    "sqft":"100,000",
+    "lot":"20",
+    "image":"http://www.1181northhillcrest.com/photos/1181hillcrest/large/1181NorthHillcrest001.jpg"
+    
+},
+{
+  "id":17,
+  "name":"925 Southside Road",
+  "location":"Taurus Hills",
+  "price":"$295,000,000",
+  "numberprice": "295000000",
+  "bed":"15",
+  "bath":"22",
+  "sqft":"72,500",
+  "lot":"19",
+  "image":"https://www.mccleandesign.com/media/projects_hd/Opus/10_i30321920x0_7_78.jpg"
+  
+},
+{
+  "id":18,
+  "name":"1210 Hilltop Drive",
+  "location":"Simple Hills",
+  "price":"$150,000,000",
+  "numberprice": "150000000",
+  "bed":"15",
+  "bath":"25",
+  "sqft":"50,500",
+  "lot":"20",
+  "image":"https://plusdevelopmentgroup.com/wp-content/uploads/2019/05/908BelAirRoad078aDESATURATED_Website-New-1920x0-c-default.jpg"
+  
+},
+{
+  "id":19,
+  "name":"1169 Hillside Road",
+  "location":"Taurus Hills",
+  "price":"$205,990,000",
+  "numberprice": "205990000",
+  "bed":"17",
+  "bath":"21",
+  "sqft":"70,000",
+  "lot":"22",
+  "image":"http://1169hillcrest.com/photos/1169hillcrest/large/Hillcrest-2_opt2.jpg"
+  
+},
+{
+  "id":20,
+  "name":"9272 Eastside Road",
+  "location":"Taurus Hills",
+  "price":"$195,000,000",
+  "numberprice": "195000000",
+  "bed":"17",
+  "bath":"22",
+  "sqft":"55,500",
+  "lot":"20",
+  "image":"https://www.mccleandesign.com/media/projects_hd/Robin/9272robindrive123a_i32411920x0_7_87.jpg"
+  
+},
+{
+  "id":21,
+  "name":"1181 Hillside Road",
+  "location":"Taurus Hills",
+  "price":"$175,000,000",
+  "numberprice": "175000000",
+  "bed":"10",
+  "bath":"15",
+  "sqft":"45,000",
+  "lot":"25",
+  "image":"http://www.1181northhillcrest.com/photos/1181hillcrest/large/1181NorthHillcrest001.jpg"
+  
+},
+{
+"id":22,
+"name":"1175 Hillside Road",
+"location":"Taurus Hills",
+"price":"$155,990,000",
+"numberprice": "155990000",
+"bed":"12",
+"bath":"20",
+"sqft":"37,500",
+"lot":"20",
+"image":"https://www.mccleandesign.com/media/projects_hd/Opus/10_i30321920x0_7_78.jpg"
+
+},
+{
+"id":23,
+"name":"908 Highland Drive",
+"location":"Taurus Hills",
+"price":"$215,000,000",
+"numberprice": "215000000",
+"bed":"20",
+"bath":"25",
+"sqft":"67,500",
+"lot":"30",
+"image":"https://plusdevelopmentgroup.com/wp-content/uploads/2019/05/908BelAirRoad078aDESATURATED_Website-New-1920x0-c-default.jpg"
+
+},
+{
+"id":24,
+"name":"1169 Hillside Road",
+"location":"Taurus Hills",
+"price":"$205,990,000",
+"numberprice": "205990000",
+"bed":"17",
+"bath":"21",
+"sqft":"70,000",
+"lot":"22",
+"image":"http://1169hillcrest.com/photos/1169hillcrest/large/Hillcrest-2_opt2.jpg"
+
+},
+{
+"id":25,
+"name":"9272 Eastside Road",
+"location":"Taurus Hills",
+"price":"$195,000,000",
+"numberprice": "195000000",
+"bed":"17",
+"bath":"22",
+"sqft":"55,500",
+"lot":"20",
+"image":"https://www.mccleandesign.com/media/projects_hd/Robin/9272robindrive123a_i32411920x0_7_87.jpg"
+
+} 
+
+
+],
+"homepage-listings":
+[
+
+    {
+        "id":"1",
+        "name":"1200 Hilltop Drive",
+        "location":"Simple Hills",
+        "price":"$575,000,000",
+        "bed":"30",
+        "bath":"45",
+        "sqft":"115,000",
+        "lot":"38",
+        "image":"https://www.mccleandesign.com/media/projects_hd/Laurel_Way-1221/9_i29121920x0_7_76.jpg",
+        "allimages": [
+          "https://www.mccleandesign.com/media/projects_hd/Opus/40_i30621920x0_7_78.jpg",
+          "https://www.mccleandesign.com/media/projects_hd/Opus/36_i30581920x0_7_78.jpg",
+          "https://www.mccleandesign.com/media/projects_hd/Opus/39_i30611920x0_7_78.jpg",
+          "https://www.mccleandesign.com/media/projects_hd/Opus/4_i30261920x0_7_78.jpg",
+          "https://www.mccleandesign.com/media/projects_hd/Opus/11_i30331920x0_7_78.jpg",
+          "https://www.mccleandesign.com/media/projects_hd/Opus/37_i30591920x0_7_78.jpg",
+          "https://www.mccleandesign.com/media/projects_hd/Opus/26_i30481920x0_7_78.jpg",
+          "https://www.mccleandesign.com/media/projects_hd/Opus/17_i30391920x0_7_78.jpg",
+          "https://www.mccleandesign.com/media/projects_hd/Opus/19_i30411920x0_7_78.jpg",
+          "https://www.mccleandesign.com/media/projects_hd/Opus/35_i30571920x0_7_78.jpg"
+      
+        ]
+
+    },
+    {
+      "id":"2",
+      "name":"1175 Hillside Road",
+      "location":"Taurus Hills",
+      "price":"$255,990,000",
+      "bed":"22",
+      "bath":"30",
+      "sqft":"87,500",
+      "lot":"25",
+      "image":"https://www.mccleandesign.com/media/projects_hd/Shadow_Hill/1_i28381920x0_7_70.jpg"
+      
+  },
+  {
+      "id":"3",
+      "name":"908 Highland Drive",
+      "location":"Simple Hills",
+      "price":"$215,000,000",
+      "bed":"20",
+      "bath":"25",
+      "sqft":"67,500",
+      "lot":"15",
+      "image":"https://www.mccleandesign.com/media/projects_hd/Laurel_Way-1357/18---mcclean-design_laurel-way---30_i33961920x0_7_92.jpg"
+      
+  },
+  {
+      "id":"4",
+      "name":"1169 Hillside Road",
+      "location":"Taurus Hills",
+      "price":"$205,990,000",
+      "bed":"17",
+      "bath":"21",
+      "sqft":"70,000",
+      "lot":"20",
+      "image":"http://1169hillcrest.com/photos/1169hillcrest/large/Hillcrest-2_opt2.jpg"
+      
+  },
+  {
+      "id":"5",
+      "name":"9272 Eastside Road",
+      "location":"Taurus Hills",
+      "price":"$195,000,000",
+      "bed":"17",
+      "bath":"22",
+      "sqft":"55,500",
+      "lot":"20",
+      "image":"https://www.mccleandesign.com/media/projects_hd/Robin/9272robindrive074b_i32331920x0_7_87.jpg"
+      
+  },
+  {
+    "id":"6",
+    "name":"920 Southside Road",
+    "location":"South-East Hills",
+    "price":"$335,000,000",
+    "bed":"20",
+    "bath":"35",
+    "sqft":"100,000",
+    "lot":"20",
+    "image":"https://www.mccleandesign.com/media/projects_hd/Devlin_1415/1415-devlin-drive-13_i31341920x0_7_82.jpg",
+    "allimages": [
+      "https://www.mccleandesign.com/media/projects_hd/Opus/40_i30621920x0_7_78.jpg",
+      "https://www.mccleandesign.com/media/projects_hd/Opus/36_i30581920x0_7_78.jpg",
+      "https://www.mccleandesign.com/media/projects_hd/Opus/39_i30611920x0_7_78.jpg",
+      "https://www.mccleandesign.com/media/projects_hd/Opus/4_i30261920x0_7_78.jpg",
+      "https://www.mccleandesign.com/media/projects_hd/Opus/11_i30331920x0_7_78.jpg",
+      "https://www.mccleandesign.com/media/projects_hd/Opus/37_i30591920x0_7_78.jpg",
+      "https://www.mccleandesign.com/media/projects_hd/Opus/26_i30481920x0_7_78.jpg",
+      "https://www.mccleandesign.com/media/projects_hd/Opus/17_i30391920x0_7_78.jpg",
+      "https://www.mccleandesign.com/media/projects_hd/Opus/19_i30411920x0_7_78.jpg",
+      "https://www.mccleandesign.com/media/projects_hd/Opus/35_i30571920x0_7_78.jpg"
+  
+    ]
+    
+    
+},
+{
+  "id":"7",
+  "name":"925 Southside Road",
+  "location":"Taurus Hills",
+  "price":"$295,000,000",
+  "bed":"15",
+  "bath":"22",
+  "sqft":"72,500",
+  "lot":"19",
+  "image":"https://www.mccleandesign.com/media/projects_hd/Opus/39_i30611920x0_7_78.jpg",
+  "allimages": [
+    "https://www.mccleandesign.com/media/projects_hd/Opus/40_i30621920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/36_i30581920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/39_i30611920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/4_i30261920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/11_i30331920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/37_i30591920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/26_i30481920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/17_i30391920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/19_i30411920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/35_i30571920x0_7_78.jpg"
+
+  ]
+  
+},
+{
+  "id":"8",
+  "name":"1210 Hilltop Drive",
+  "location":"Simple Hills",
+  "price":"$150,000,000",
+  "bed":"15",
+  "bath":"25",
+  "sqft":"50,500",
+  "lot":"20",
+  "image":"https://www.mccleandesign.com/media/projects_hd/908-Bel-Air/908belairroad011a_i31401920x0_7_83.jpg",
+  "allimages": [
+    "https://www.mccleandesign.com/media/projects_hd/Opus/40_i30621920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/36_i30581920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/39_i30611920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/4_i30261920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/11_i30331920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/37_i30591920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/26_i30481920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/17_i30391920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/19_i30411920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/35_i30571920x0_7_78.jpg"
+
+  ]
+  
+},
+{
+  "id":"9",
+  "name":"1169 Hillside Road",
+  "location":"South-East Hills",
+  "price":"$205,990,000",
+  "bed":"17",
+  "bath":"21",
+  "sqft":"70,000",
+  "lot":"22",
+  "image":"https://www.mccleandesign.com/media/projects_hd/Laurel_Way-1210/10_i29021920x0_7_75.jpg",
+  "allimages": [
+    "https://www.mccleandesign.com/media/projects_hd/Opus/40_i30621920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/36_i30581920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/39_i30611920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/4_i30261920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/11_i30331920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/37_i30591920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/26_i30481920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/17_i30391920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/19_i30411920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/35_i30571920x0_7_78.jpg"
+
+  ]
+  
+},
+{
+  "id":"10",
+  "name":"9272 Eastside Road",
+  "location":"Taurus Hills",
+  "price":"$195,000,000",
+  "bed":"17",
+  "bath":"22",
+  "sqft":"55,500",
+  "lot":"20",
+  "image":"https://www.mccleandesign.com/media/projects_hd/Robin/9272robindrive123a_i32411920x0_7_87.jpg",
+  "allimages": [
+    "https://www.mccleandesign.com/media/projects_hd/Opus/40_i30621920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/36_i30581920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/39_i30611920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/4_i30261920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/11_i30331920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/37_i30591920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/26_i30481920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/17_i30391920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/19_i30411920x0_7_78.jpg",
+    "https://www.mccleandesign.com/media/projects_hd/Opus/35_i30571920x0_7_78.jpg"
+
+  ]
+  
+}
+],
+"exclivisve-location":
+[
+
+    {
+        "id":1,
+        "name":"Taurus Hills",
+        "image":"https://plusdevelopmentgroup.com/wp-content/uploads/2021/07/US_LAX_Vance_9200_View002_01_20180524_003_kvz-2-1920x0-c-default.jpg"
+        
+    },
+    {
+      "id":2,
+      "name":"Simple Hills",
+      "image":"https://plusdevelopmentgroup.com/wp-content/uploads/2019/05/SienaWay_Exterior_02_3DRender_rdvisualisation_web_Website-New-1920x0-c-default.jpg"
+      
+    },
+    {
+      "id":3,
+      "name":"South-East Hills",
+      "image":"https://www.mccleandesign.com/media/projects_hd/Robin/9272robindrive125_i32421920x0_7_87.jpg"
+    
+    }
+    
+],
+"sold-listings":
+[
+
+    {
+        "id":1,
+        "name":"20 Foothills Drive",
+        "image":"https://www.mccleandesign.com/media/projects_hd/Laurel_Way-1357/01---mcclean-design_laurel-way---50_i33791920x0_7_92.jpg",
+        "price":"$250,000,000"
+    },
+    {
+      "id":2,
+      "name":"75 Eastside Road",
+      "image":"https://www.biglingroup.com/wp-content/uploads/2019/06/exterior-property-1.jpg",
+      "price":"$230,000,000"
+    },
+    {
+      "id":3,
+      "name":"515 Hillside Road",
+      "image":"https://www.biglingroup.com/wp-content/uploads/2019/06/exterior-front-2-1.jpg",
+       "price":"$190,990,000"
+    },
+    {
+      "id":4,
+      "name":"925 Highland Drive",
+      "image":"https://www.mccleandesign.com/media/projects_hd/Seabreeze/p_seabreeze30a_i33521920x0_7_90.jpg",
+       "price":"$150,000,000"
+    },
+    
+    {
+      "id":5,
+      "name":"900 Highland Drive",
+      "image":"https://www.mccleandesign.com/media/projects_hd/Laurel_Way-1200/1_i28711920x0_7_73.jpg",
+       "price":"$120,000,000"
+    },
+    
+    {
+      "id":6,
+      "name":"1980 Westside Road",
+      "image":"https://www.mccleandesign.com/media/projects_hd/Skylark/p_skylark157a_cropped-1_i33691920x0_7_91.jpg",
+       "price":"$78,000,000"
+    }
+    
+    
+]
+
+
+
+
+
+
+
+}
