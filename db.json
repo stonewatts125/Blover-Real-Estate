@@ -3,19 +3,19 @@
     {
       "id": "0",
       "name": "Vesper Boulevard",
-      "location": "Lionrock",
+      "location": "New District",
       "image": "https://www.hiltonhyland.com/wp-content/uploads/2022/02/Manor-26.jpg"
     },
     {
       "id": "1",
-      "name": "1080 Boulevard",
+      "name": "1080 Citron Blvd",
       "location": "Lionrock",
       "image": "https://www.hiltonhyland.com/wp-content/uploads/2022/02/Manor-26.jpg"
     },
     {
       "id": "2",
-      "name": "Vesper Boulevard",
-      "location": "Lionrock",
+      "name": "Sunset Boulevard",
+      "location": "Beverly Hills",
       "image": "https://www.hiltonhyland.com/wp-content/uploads/2022/02/Manor-26.jpg"
     }
     
