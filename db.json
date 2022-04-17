@@ -85,7 +85,37 @@
   
   "sold-listings": [
     {
-      "id": 1,
+      "id": 01,
+      "name": "20 Foothills Drive",
+      "image": "https://www.mccleandesign.com/media/projects_hd/Laurel_Way-1357/01---mcclean-design_laurel-way---50_i33791920x0_7_92.jpg",
+      "price": "$250,000,000"
+    },
+    {
+      "id": 2,
+      "name": "75 Eastside Road",
+      "image": "https://www.biglingroup.com/wp-content/uploads/2019/06/exterior-property-1.jpg",
+      "price": "$230,000,000"
+    },
+    {
+      "id": 3,
+      "name": "515 Hillside Road",
+      "image": "https://www.biglingroup.com/wp-content/uploads/2019/06/exterior-front-2-1.jpg",
+      "price": "$190,990,000"
+    },
+    {
+      "id": 4,
+      "name": "925 Highland Drive",
+      "image": "https://www.mccleandesign.com/media/projects_hd/Seabreeze/p_seabreeze30a_i33521920x0_7_90.jpg",
+      "price": "$150,000,000"
+    },
+    {
+      "id": 5,
+      "name": "900 Highland Drive",
+      "image": "https://www.mccleandesign.com/media/projects_hd/Laurel_Way-1200/1_i28711920x0_7_73.jpg",
+      "price": "$120,000,000"
+    },
+    {
+      "id": 01,
       "name": "20 Foothills Drive",
       "image": "https://www.mccleandesign.com/media/projects_hd/Laurel_Way-1357/01---mcclean-design_laurel-way---50_i33791920x0_7_92.jpg",
       "price": "$250,000,000"
