@@ -1,148 +1,148 @@
 {
-  "developement": [
-    {
-      "id": "0",
-      "name": "Vesper Boulevard",
-      "location": "New District",
-      "image": "https://images.adsttc.com/media/images/59bb/a58b/b22e/3813/9f00/00f6/large_jpg/53W53_-_Rendering_by_VUW_Studio_9.6.17.jpg?1505469831"
-    },
-    {
-      "id": "1",
-      "name": "1080 Citron Blvd",
-      "location": "Lionrock",
-      "image": "https://newyorkyimby.com/wp-content/uploads/2019/08/NIGHT-VIEW1-777x1200.jpg"
-    },
-    {
-      "id": "2",
-      "name": "Sunset Boulevard",
-      "location": "Beverly Hills",
-      "image": "https://images.dwell.com/photos-6133553759298379776/6278306087113420800-large/exterior-rendering-of-framework.jpg"
-    }
+    "developement": [
+      {
+        "id": "0",
+        "name": "Vesper Boulevard",
+        "location": "New District",
+        "image": "https://images.adsttc.com/media/images/59bb/a58b/b22e/3813/9f00/00f6/large_jpg/53W53_-_Rendering_by_VUW_Studio_9.6.17.jpg?1505469831"
+      },
+      {
+        "id": "1",
+        "name": "1080 Citron Blvd",
+        "location": "Lionrock",
+        "image": "https://newyorkyimby.com/wp-content/uploads/2019/08/NIGHT-VIEW1-777x1200.jpg"
+      },
+      {
+        "id": "2",
+        "name": "Sunset Boulevard",
+        "location": "Beverly Hills",
+        "image": "https://images.dwell.com/photos-6133553759298379776/6278306087113420800-large/exterior-rendering-of-framework.jpg"
+      }
+      
+    ],
+   
     
-  ],
- 
-  
-  
-  "homepage-listings": [
-    {
-      "id": "0",
-      "name": "1211 Hillside Road",
-      "location": "Simple Hills",
-      "price": "$275,000,000",
-      "bed": "20",
-      "bath": "30",
-      "sqft": "85,000",
-      "lot": "",
-      "image": "https://aaronkirman.com/wp-content/uploads/2021/04/1108WallaceRidge-mls-9.jpg"
-    },
-    {
-      "id": "1",
-      "name": "1200 Hilltop Drive",
-      "location": "Simple Hills",
-      "price": "$575,000,000",
-      "bed": "30",
-      "bath": "45",
-      "sqft": "115,000",
-      "lot": "38",
-      "image": "https://aaronkirman.com/wp-content/uploads/2022/01/The-One-Gallery-48.jpg"
-    },
-    {
-      "id": "2",
-      "name": "1175 Hillside Road",
-      "location": "Taurus Hills",
-      "price": "$255,990,000",
-      "bed": "22",
-      "bath": "30",
-      "sqft": "87,500",
-      "lot": "25",
-      "image": "https://www.mccleandesign.com/media/projects_hd/Robin/9272robindrive074b_i32331920x0_7_87.jpg"
-    },
-    {
-      "id": "3",
-      "name": "908 Highland Drive",
-      "location": "Simple Hills",
-      "price": "$215,000,000",
-      "bed": "20",
-      "bath": "25",
-      "sqft": "67,500",
-      "lot": "15",
-      "image": "https://www.mccleandesign.com/media/home_hd/skylark-2-resized_i33111920x0_8_5.jpg"
-    },
-    {
-      "id": "4",
-      "name": "1169 Hillside Road",
-      "location": "Taurus Hills",
-      "price": "$205,990,000",
-      "bed": "17",
-      "bath": "21",
-      "sqft": "70,000",
-      "lot": "20",
-      "image": "https://www.mccleandesign.com/media/projects_hd/Opus/39_i30611920x0_7_78.jpg"
-    }
-  ],
-  
-  
-  
-  "sold-listings": [
-    {
-      "id": 1,
-      "name": "20 Foothills Drive",
-      "image": "https://www.mccleandesign.com/media/projects_hd/Laurel_Way-1357/01---mcclean-design_laurel-way---50_i33791920x0_7_92.jpg",
-      "price": "$250,000,000"
-    },
-    {
-      "id": 2,
-      "name": "75 Eastside Road",
-      "image": "https://www.biglingroup.com/wp-content/uploads/2019/06/exterior-property-1.jpg",
-      "price": "$230,000,000"
-    },
-    {
-      "id": 3,
-      "name": "515 Hillside Road",
-      "image": "https://www.biglingroup.com/wp-content/uploads/2019/06/exterior-front-2-1.jpg",
-      "price": "$190,990,000"
-    },
-    {
-      "id": 4,
-      "name": "925 Highland Drive",
-      "image": "https://www.mccleandesign.com/media/projects_hd/Seabreeze/p_seabreeze30a_i33521920x0_7_90.jpg",
-      "price": "$150,000,000"
-    },
-    {
-      "id": 5,
-      "name": "900 Highland Drive",
-      "image": "https://www.mccleandesign.com/media/projects_hd/Laurel_Way-1200/1_i28711920x0_7_73.jpg",
-      "price": "$120,000,000"
-    },
-    {
-      "id": 6,
-      "name": "20 Foothills Drive",
-      "image": "https://www.mccleandesign.com/media/projects_hd/Laurel_Way-1357/01---mcclean-design_laurel-way---50_i33791920x0_7_92.jpg",
-      "price": "$250,000,000"
-    },
-    {
-      "id": 7,
-      "name": "75 Eastside Road",
-      "image": "https://www.biglingroup.com/wp-content/uploads/2019/06/exterior-property-1.jpg",
-      "price": "$230,000,000"
-    },
-    {
-      "id": 8,
-      "name": "515 Hillside Road",
-      "image": "https://www.biglingroup.com/wp-content/uploads/2019/06/exterior-front-2-1.jpg",
-      "price": "$190,990,000"
-    },
-    {
-      "id": 9,
-      "name": "925 Highland Drive",
-      "image": "https://www.mccleandesign.com/media/projects_hd/Seabreeze/p_seabreeze30a_i33521920x0_7_90.jpg",
-      "price": "$150,000,000"
-    },
-    {
-      "id": 10,
-      "name": "900 Highland Drive",
-      "image": "https://www.mccleandesign.com/media/projects_hd/Laurel_Way-1200/1_i28711920x0_7_73.jpg",
-      "price": "$120,000,000"
-    }
-  ]
-}
+    
+    "homepage-listings": [
+      {
+        "id": "0",
+        "name": "1211 Hillside Road",
+        "location": "Simple Hills",
+        "price": "$275,000,000",
+        "bed": "20",
+        "bath": "30",
+        "sqft": "85,000",
+        "lot": "",
+        "image": "https://aaronkirman.com/wp-content/uploads/2021/04/1108WallaceRidge-mls-9.jpg"
+      },
+      {
+        "id": "1",
+        "name": "1200 Hilltop Drive",
+        "location": "Simple Hills",
+        "price": "$575,000,000",
+        "bed": "30",
+        "bath": "45",
+        "sqft": "115,000",
+        "lot": "38",
+        "image": "https://aaronkirman.com/wp-content/uploads/2022/01/The-One-Gallery-48.jpg"
+      },
+      {
+        "id": "2",
+        "name": "1175 Hillside Road",
+        "location": "Taurus Hills",
+        "price": "$255,990,000",
+        "bed": "22",
+        "bath": "30",
+        "sqft": "87,500",
+        "lot": "25",
+        "image": "https://www.mccleandesign.com/media/projects_hd/Robin/9272robindrive074b_i32331920x0_7_87.jpg"
+      },
+      {
+        "id": "3",
+        "name": "908 Highland Drive",
+        "location": "Simple Hills",
+        "price": "$215,000,000",
+        "bed": "20",
+        "bath": "25",
+        "sqft": "67,500",
+        "lot": "15",
+        "image": "https://www.mccleandesign.com/media/home_hd/skylark-2-resized_i33111920x0_8_5.jpg"
+      },
+      {
+        "id": "4",
+        "name": "1169 Hillside Road",
+        "location": "Taurus Hills",
+        "price": "$205,990,000",
+        "bed": "17",
+        "bath": "21",
+        "sqft": "70,000",
+        "lot": "20",
+        "image": "https://www.mccleandesign.com/media/projects_hd/Opus/39_i30611920x0_7_78.jpg"
+      }
+    ],
+    
+    
+    
+    "sold-listings": [
+      {
+        "id": 1,
+        "name": "20 Foothills Drive",
+        "image": "https://www.mccleandesign.com/media/projects_hd/Laurel_Way-1357/01---mcclean-design_laurel-way---50_i33791920x0_7_92.jpg",
+        "price": "$250,000,000"
+      },
+      {
+        "id": 2,
+        "name": "75 Eastside Road",
+        "image": "https://www.biglingroup.com/wp-content/uploads/2019/06/exterior-property-1.jpg",
+        "price": "$230,000,000"
+      },
+      {
+        "id": 3,
+        "name": "515 Hillside Road",
+        "image": "https://www.biglingroup.com/wp-content/uploads/2019/06/exterior-front-2-1.jpg",
+        "price": "$190,990,000"
+      },
+      {
+        "id": 4,
+        "name": "925 Highland Drive",
+        "image": "https://www.mccleandesign.com/media/projects_hd/Seabreeze/p_seabreeze30a_i33521920x0_7_90.jpg",
+        "price": "$150,000,000"
+      },
+      {
+        "id": 5,
+        "name": "10710 FootHills Drive",
+        "image": "https://www.mccleandesign.com/media/projects_hd/Laurel_Way-1200/1_i28711920x0_7_73.jpg",
+        "price": "$90,000,000"
+      },
+      {
+        "id": 6,
+        "name": "12512 Foothills Drive",
+        "image": "https://www.mccleandesign.com/media/projects_hd/Laurel_Way-1357/01---mcclean-design_laurel-way---50_i33791920x0_7_92.jpg",
+        "price": "$250,000,000"
+      },
+      {
+        "id": 7,
+        "name": "95/115 Lion Street",
+        "image": "https://www.biglingroup.com/wp-content/uploads/2019/06/exterior-property-1.jpg",
+        "price": "$100,000,000"
+      },
+      {
+        "id": 8,
+        "name": "10710 EastSide Road",
+        "image": "https://www.biglingroup.com/wp-content/uploads/2019/06/exterior-front-2-1.jpg",
+        "price": "$250,000,000"
+      },
+      {
+        "id": 9,
+        "name": "925 Highdale Drive",
+        "image": "https://www.mccleandesign.com/media/projects_hd/Seabreeze/p_seabreeze30a_i33521920x0_7_90.jpg",
+        "price": "$120,000,000"
+      },
+      {
+        "id": 10,
+        "name": "900 Robin Drive",
+        "image": "https://www.mccleandesign.com/media/projects_hd/Laurel_Way-1200/1_i28711920x0_7_73.jpg",
+        "price": "$110,000,000"
+      }
+    ]
+  }
