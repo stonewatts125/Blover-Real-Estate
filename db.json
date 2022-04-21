@@ -17,6 +17,24 @@
         "name": "Sunset Boulevard",
         "location": "Beverly Hills",
         "image": "https://images.dwell.com/photos-6133553759298379776/6278306087113420800-large/exterior-rendering-of-framework.jpg"
+      },
+        {
+        "id": "3",
+        "name": "Wilshire Blvd",
+        "location": "Los Angeles,
+        "image": "https://i.insider.com/5c797a5426289866c261eb65?width=600&format=jpeg&auto=webp"
+      },
+      {
+        "id": "4",
+        "name": "29th Street",
+        "location": "New York,
+        "image": "https://newyorkyimby.com/wp-content/uploads/2018/06/New-rendering-of-259-Clinton-Street-at-night-design-by-Perkins-Eastman.jpg"
+      },
+      {
+        "id": "5",
+        "name": "Center Street",
+        "location": "Gilbert, Vesper",
+        "image": "https://www.lunas.pro/wp-content/uploads/2018/11/architectural-3d-rendering-skyscraper-toronto-city-adelaide.jpg"
       }
       
     ],
